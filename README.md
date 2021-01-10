@@ -21,6 +21,7 @@ Visio p2p avec serveur
 ## install
 
 \$ git clone https://github.com/otman-math/RTC-App.git
+
 \$ cd RTC-App
 
 \$ npm install
